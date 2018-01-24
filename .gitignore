@@ -1,0 +1,11 @@
+train.npy
+*.npy
+*.jpg
+test/
+train/
+train_subset/
+
+.DS_Store/
+.idea/
+.DS_Store
+.idea
